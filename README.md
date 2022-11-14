@@ -1,0 +1,1 @@
+# katalon-otp-usecase-sample
