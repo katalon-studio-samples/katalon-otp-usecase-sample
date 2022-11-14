@@ -1,0 +1,56 @@
+{
+  "keywordFileContentHash": "A0E6781752D14C723681E5883EA21AD5",
+  "keywordClasses": [
+    {
+      "name": "webKeywords.WriteExcel",
+      "keywordMethods": [
+        {
+          "name": "setCellDataExcel",
+          "parameters": [
+            {
+              "name": "introw",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "intcol",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

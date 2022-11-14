@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "46343128865E51B77390BE6E6F5DCBEC",
+  "keywordClasses": [
+    {
+      "name": "webKeywords.javaScriptFunction",
+      "keywordMethods": [
+        {
+          "name": "clickJS",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

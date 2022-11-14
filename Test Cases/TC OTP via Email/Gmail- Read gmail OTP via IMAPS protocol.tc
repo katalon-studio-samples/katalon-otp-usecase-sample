@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gmail- Read gmail OTP via IMAPS protocol</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>156eb2d4-b70d-4829-9810-8c4e00ce735d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,64 @@
+{
+  "keywordFileContentHash": "3FF9B912D79D3D5FCC3E60869D0D831F",
+  "keywordClasses": [
+    {
+      "name": "webKeywords.HighlightElement",
+      "keywordMethods": [
+        {
+          "name": "on",
+          "parameters": [
+            {
+              "name": "testObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "pandemic",
+          "parameters": [
+            {
+              "name": "keywordsToAdd",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.List",
+                "unresolvedClassName": "List",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * change some of methods of WebUiBuiltInKeywords so that they call HighlightElement.on(testObject)\n\t * before invoking their original method body.\n\t *\n\t * This method is implemented using Groovy Metaprogramming technique. See\n\t * http://docs.groovy-lang.org/latest/html/documentation/core-metaprogramming.html#metaprogramming\n\t *\n\t * @param keywordsToAdd you can specify additional keywords to turn \"highlighting\"\n\t */"
+        },
+        {
+          "name": "pandemic",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

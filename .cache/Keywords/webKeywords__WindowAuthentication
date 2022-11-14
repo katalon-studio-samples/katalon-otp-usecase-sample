@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "2D8B3034325C8E384EFC31566265B46F",
+  "keywordClasses": [
+    {
+      "name": "webKeywords.WindowAuthentication",
+      "keywordMethods": [
+        {
+          "name": "handlePopupAuthenticate",
+          "parameters": [
+            {
+              "name": "username",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

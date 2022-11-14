@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Outlook OTP with Runtime Arguments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58ea7dae-752f-43f1-ae8d-8219467fbb44</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a92f1dd-9cf7-4def-b0bb-46fa65c9cf95</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a92f1dd-9cf7-4def-b0bb-46fa65c9cf95</id>
+      <masked>false</masked>
+      <name>email_subject</name>
+   </variable>
+</TestCaseEntity>

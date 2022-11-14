@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "720F08EDE5B29C3D320C3D98CC495D0A",
+  "keywordClasses": [
+    {
+      "name": "webKeywords.JavaFunctions",
+      "keywordMethods": [
+        {
+          "name": "enhanced_StringtoList",
+          "parameters": [
+            {
+              "name": "str",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
