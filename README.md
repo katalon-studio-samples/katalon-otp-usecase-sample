@@ -1,4 +1,3 @@
-# katalon-otp-usecase-sample
 
 # Introduction
 
