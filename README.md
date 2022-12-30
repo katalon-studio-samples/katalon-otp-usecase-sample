@@ -3,7 +3,7 @@
 
 This project demonstrates how katalon studio helps users to extract OTP from different -2 platforms for the test automation script. It contain some test cases for Mobile OTP extraction, some test cases for Outlook and Gmail OTP extraction.
 
-# Requriments
+# Requirements
 
 * Katalon Studio
 
