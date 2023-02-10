@@ -13,13 +13,15 @@ This project demonstrates how katalon studio helps users to extract OTP from dif
     * Extract OTP/number
     * Use the extracted otp for verification(web/mobile/api)
 
-          
-# Use Case No 2: Extract OTP from gmail.
+# Use case     
+
+Use Case No 2: Extract OTP from gmail.
 
     * Extract OTP/number
     * Use the extracted otp for verification(web/mobile/api)
       
-# Use Case No 2: Extract OTP from mobile.
+Use Case No 2: Extract OTP from mobile.
+
     * Connect mobile device with system.
     * Launch the .apk file
     * Extract OTP/number
@@ -28,7 +30,7 @@ This project demonstrates how katalon studio helps users to extract OTP from dif
 
 # How to automate
 
-**For Gmail/Outlook:**
+For Gmail/Outlook
 
     * Refer to the attached test cases in our git repository.
 
@@ -37,7 +39,7 @@ This project demonstrates how katalon studio helps users to extract OTP from dif
     * Change the Email subject and body content from where user want to extract the OTP
 
 
-**For Mobile:**
+For Mobile
 
     * Connect with your mobile device
 
