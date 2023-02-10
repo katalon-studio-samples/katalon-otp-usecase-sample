@@ -8,12 +8,12 @@ This project demonstrates how katalon studio helps users to extract OTP from dif
 * Configure outlook/gmail for OTP extraction
 * Connect with your mobile device for OTP extraction
 
-# Use Case No 1: Extract OTP from outlook.
+# Use case 
+
+Use Case No 1: Extract OTP from outlook.
 
     * Extract OTP/number
-    * Use the extracted otp for verification(web/mobile/api)
-
-# Use case     
+    * Use the extracted otp for verification(web/mobile/api)    
 
 Use Case No 2: Extract OTP from gmail.
 
